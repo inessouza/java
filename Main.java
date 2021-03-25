@@ -18,7 +18,7 @@ public class Main {
 		nome = "Maria Silva";
 		sexo = 'F';
 
-		System.out.println("A funcion�ria " + nome + ", sexo " + sexo + ", ganha " + String.format("%.2f", salario)
+		System.out.println("A funcionária " + nome + ", sexo " + sexo + ", ganha " + String.format("%.2f", salario)
 				+ " e tem " + idade + " anos.");
 	}
 
