@@ -1,4 +1,4 @@
-package poo;
+package poo.ex01;
 
 public class Main {
 

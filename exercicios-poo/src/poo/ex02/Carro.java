@@ -1,4 +1,4 @@
-package poo.dois;
+package poo.ex02;
 
 public class Carro {
 	String modelo;
