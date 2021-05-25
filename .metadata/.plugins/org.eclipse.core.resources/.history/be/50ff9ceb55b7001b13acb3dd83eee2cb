@@ -1,0 +1,13 @@
+package poo.tres;
+
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		Carro carro = new Carro("Honda", "HR-V", 2021, "Grafite");
+		//carro.status();
+
+	}
+
+}

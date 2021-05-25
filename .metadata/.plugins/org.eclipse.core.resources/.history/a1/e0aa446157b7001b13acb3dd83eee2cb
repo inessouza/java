@@ -1,0 +1,18 @@
+package poo.tres;
+
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		Carro carro = new Carro();
+		
+		carro.setMarca("Honda");
+		System.out.println(carro.getMarca());
+		
+		
+		//carro.status();
+
+	}
+
+}
