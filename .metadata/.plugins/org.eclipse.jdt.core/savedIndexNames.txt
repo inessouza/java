@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Inês\Desktop\workspace\inesdev\java-exercicios\.metadata\.plugins\org.eclipse.jdt.core
-2872044937.index
-381871574.index
