@@ -19,9 +19,9 @@ public class ArrayMethodMain {
 		System.out.println(pessoasPrincipal[2]);   // ["Fulano A", "Fulano B", "Fulano C", null, null] 
 		inserirDados(pessoasPrincipal, "Fulano D"); // ["Fulano A", "Fulano B", null, null, null] "Fulano D"
 		System.out.println(pessoasPrincipal[3]); // ["Fulano A", "Fulano B", "Fulano C", "Fulano D", null] 
-		inserirDados(pessoasPrincipal, "Fulano E"); // ["Fulano A", "Fulano B", "Fulano C", null, null] "Fulano D"
-		System.out.println(pessoasPrincipal[4]); // ["Fulano A", "Fulano B", "Fulano C", "Fulano D", null] 
-		inserirDados(pessoasPrincipal, "Fulano F");
+		inserirDados(pessoasPrincipal, "Fulano E"); // ["Fulano A", "Fulano B", "Fulano C", "Fulano D", null] "Fulano E"
+		System.out.println(pessoasPrincipal[4]); // ["Fulano A", "Fulano B", "Fulano C", "Fulano D", "Fulano E"] 
+		inserirDados(pessoasPrincipal, "Fulano F"); // Vetor está cheio
 		
 		
 		/*for(String pessoa : pessoasPrincipal) {
