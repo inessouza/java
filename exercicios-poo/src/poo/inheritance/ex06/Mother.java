@@ -1,4 +1,4 @@
-package poo.heranca.ex06;
+package poo.inheritance.ex06;
 
 public class Mother {
     

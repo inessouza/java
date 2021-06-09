@@ -1,4 +1,4 @@
-package poo.heranca.ex07;
+package poo.inheritance.ex07;
 
 public class Father extends GrandFather {
 	 protected String hair;
