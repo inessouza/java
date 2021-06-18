@@ -10,7 +10,4 @@ public class Car {
 	public Car(Wheel wheel) {
 		this.wheel = wheel; // this = indicate the class attribute
 	}
-	
-	
-	
 }

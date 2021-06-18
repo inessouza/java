@@ -13,4 +13,4 @@ public class Wheel {
 	public Wheel(String texture) {
 		this.texture = texture;
 	}
-}
+} 
