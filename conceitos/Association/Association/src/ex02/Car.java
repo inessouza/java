@@ -12,7 +12,6 @@ public class Car {
 	}
 	
 	// Getter and Setter
-	
 	public Wheel getWheel() {
 		return wheel;
 	}

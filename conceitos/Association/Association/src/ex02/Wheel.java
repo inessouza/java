@@ -15,8 +15,6 @@ public class Wheel {
 	}
 	
 	// getter and setter
-
-	
 	public String getTexture() {
 		return texture;
 	}
@@ -24,6 +22,4 @@ public class Wheel {
 	public void setTexture(String texture) {
 		this.texture = texture;
 	}
-	
-	
 }
