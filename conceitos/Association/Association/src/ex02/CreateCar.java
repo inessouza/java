@@ -9,5 +9,6 @@ public class CreateCar {
 		Car car = new Car(wheel);
 		
 		System.out.println(car.getWheel().getTexture());
+		System.out.println(wheel.getTexture());
 	}
 } 
