@@ -1,4 +1,4 @@
-package excecoes.ex01;
+package exceptions.ex01;
 
 public class Array {
 	

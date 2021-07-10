@@ -1,4 +1,4 @@
-package excecoes.ex03;
+package exceptions.ex03;
 
 import java.util.Scanner;
 
@@ -7,7 +7,6 @@ public class Array {
 	public static void main(String[] args) {
 
         System.out.println("\t\t Exercício Exceptions ");
-
 
         // criação da array
         int[] array = new int[5];
@@ -45,6 +44,6 @@ public class Array {
 
             System.out.println(array[numeroIndice]);
         }
-
+        scanner.close();
     }
 }

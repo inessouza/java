@@ -1,4 +1,4 @@
-package excecoes.ex02;
+package exceptions.ex02;
 
 import java.util.Scanner;
 
@@ -22,9 +22,7 @@ public class ErroCalculo {
 		
 		Scanner entradaTipoInteiro = new Scanner(System.in);
 		
-		
 			while(verificador == 1) {
-				
 				
 				try {
 				System.out.print("Digite o dividendo: ");
@@ -48,7 +46,6 @@ public class ErroCalculo {
 				System.out.println("\n Ops! Zero não pode ser o divisor! Por gentileza tente novamente!");
 			
 			}
-		
 		}
 		
 		System.out.print("\n\n Muito obrigado por utilizar a nossa aplicação!");
