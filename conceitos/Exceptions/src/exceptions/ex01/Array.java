@@ -3,6 +3,7 @@ package exceptions.ex01;
 public class Array {
 	
 	public static void main(String [] args) {
+		
 		// tamanho 4 de 0 até 3, ou seja, é n-1
 		
 		System.out.println("\t\tInício");

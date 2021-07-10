@@ -26,11 +26,10 @@ public class Array {
 
         System.out.println("\nDigite o numero do índice do array: ");
         numeroIndice = scanner.nextInt(); 
-
-
+        
         try {
             System.out.println(array[numeroIndice]);
-        }catch(ArrayIndexOutOfBoundsException error) {
+        } catch(ArrayIndexOutOfBoundsException error) {
 
             System.out.println(error.getMessage());
 
