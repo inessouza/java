@@ -39,15 +39,13 @@ public class ErroCalculo {
 				
 				verificador = entradaTipoInteiro.nextInt();
 				
-		
 			}catch(ArithmeticException erro) {
-			
 				System.out.println("\n Mensagem de Erro"+erro.getMessage());
 				System.out.println("\n Ops! Zero não pode ser o divisor! Por gentileza tente novamente!");
-			
 			}
 		}
 		
 		System.out.print("\n\n Muito obrigado por utilizar a nossa aplicação!");
+		entradaTipoInteiro.close();
 	}
 }

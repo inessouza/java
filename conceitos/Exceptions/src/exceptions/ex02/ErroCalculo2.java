@@ -21,8 +21,7 @@ public class ErroCalculo2 {
 		int verificador = 1;
 		
 		Scanner entradaTipoInteiro = new Scanner(System.in);
-		
-		
+				
 			while(verificador == 1) {
 				
 				try {
@@ -40,12 +39,10 @@ public class ErroCalculo2 {
 				
 				verificador = entradaTipoInteiro.nextInt();
 				
-		
-			}catch(ArithmeticException erro) {
+			} catch(ArithmeticException erro) {
 			
 				System.out.println("\n Mensagem de Erro"+erro.getMessage());
 				System.out.println("\n Ops! Zero não pode ser o divisor! Por gentileza tente novamente!");
-				
 				System.out.println("Vamos repetir o processo. Faça com atenção :D");
 				
 				System.out.print("Digite o dividendo: ");
@@ -53,7 +50,6 @@ public class ErroCalculo2 {
 				
 				System.out.print("\nChegou a grande hora, não vacile novamente! Digite o divisor: ");
 				divisor = entradaTipoInteiro.nextInt();
-				
 				
 				System.out.println("\n" +dividendo+ " / " +divisor+ " = "+(dividendo/divisor));
 
@@ -63,9 +59,9 @@ public class ErroCalculo2 {
 				
 				verificador = entradaTipoInteiro.nextInt();
 			}
-		
 		}
 		
 		System.out.print("\n\n Muito obrigado por utilizar a nossa aplicação!");
+		entradaTipoInteiro.close();
 	}
 }
