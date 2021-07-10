@@ -9,7 +9,7 @@
 <li>*[x] Introdução </li>
 <li>*[x] Começando com Java </li>
 <li>*[x] Programação Básica </li>
-<li>*[ ] Controles, Decisões e Loops </li>
+<li>*[X] Controles, Decisões e Loops </li>
 <li>*[ ] Vetores e Matrizes </li>
 <li>*[ ] For each e Debug de aplicações Java </li>
 <li>*[ ] Orientação à Objetos e Java</li>
