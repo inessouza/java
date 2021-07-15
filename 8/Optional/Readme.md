@@ -31,3 +31,26 @@ try {
   System.out.println(e.getMessage());
 }
 ```
+
+<h4> ofNullable() </h4>
+Este método verifica se existe um objeto/valor, caso sim, vai retornar um Optional, caso não,
+retornará um Optional vazio.
+
+Exemplo:
+
+```
+public class ContactDAO {
+ public Optional<Contact> searchByName(String name) {
+  return Optional.ofNullable(null);
+ }
+}
+```
+
+<a href="https://github.com/inessouza/java/tree/main/8/Optional/src/ex01">Veja mais</a>
+
+<h3> Fontes: </h3>
+
+<ul>
+  <li><a href="https://docs.oracle.com/javase/8/docs/api/java/util/Optional.html">Documentação - Oracle - Java 8 - Optional</a></li>
+  <li><a href="https://medium.com/@racc.costa/optional-no-java-8-e-no-java-9-7c52c4b797f1">Medium - Optional</a></li>
+</ul>
