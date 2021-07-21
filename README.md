@@ -5,3 +5,11 @@ na empresa Sun Microsystems. Em 2008 o Java foi adquirido pela empresa Oracle Co
 são compiladas para código nativo, a linguagem Java é compilada para um bytecode que é interpretado por uma máquina virtual. A linguagem de programação 
 Java é a linguagem convencional da Plataforma Java, mas não é a sua única linguagem. J2ME Para programas e jogos de computador, celular, calculadoras, 
 ou até mesmo o rádio do carro.</p>
+
+### Fonte:
+
+<ul>
+ <li>
+  <a href="https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)#:~:text=Java%20%C3%A9%20uma%20linguagem%20de,Gosling%2C%20na%20empresa%20Sun%20Microsystems.&text=A%20linguagem%20de%20programa%C3%A7%C3%A3o%20Java,%C3%A9%20a%20sua%20%C3%BAnica%20linguagem.Java_(linguagem_de_programa%C3%A7%C3%A3o)"> Wikipedia </a>
+ </li>
+ </ul>
